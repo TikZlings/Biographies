@@ -1,3 +1,3 @@
 ### Peter Anteater
 
-![](./Images/Peter.png)
+![](https://raw.githubusercontent.com/TikZlings/Biographies/main/images/Peter.png)
